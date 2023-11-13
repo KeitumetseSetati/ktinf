@@ -1,0 +1,106 @@
+.body
+{
+    background-image: url(/IMGs/Backround\ pic\,main\ menu.jpg);
+    background-size: cover;
+    background-repeat: none;
+    height: 1000px;
+}
+.container
+{
+    background-color: rgba(0, 0, 0, 0.674);
+    height: 1000px;
+    margin: -10px;
+    color: white;
+}
+h1
+{
+    text-align: center;
+    font-size: large;
+}
+li a
+{
+    
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.893);
+    font-size: 12px;
+}
+li
+{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+.buttons
+{
+    background-color: rgba(127, 255, 212, 0);
+    border: 3px rgba(177, 170, 170, 0) solid;
+    border-radius: 7px;
+    font-size: 10px ;
+    margin-left: 70px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 20px;
+    height: 30px;
+    margin-top: 20px;
+}
+header
+{
+    margin-left: -30px;
+}
+button:hover
+{
+    border-bottom: solid 2px rgb(255, 255, 255);
+    background-color: rgba(109, 107, 107, 0.557);
+}
+.buttons
+{
+    margin-left: 20px;
+}
+.home
+{
+    border: none;
+    border-bottom: solid 2px rgb(253, 251, 251);
+    background-color: rgba(127, 255, 212, 0);
+    border-radius: 7px;
+    font-size: 10px ;
+    margin-left: 70px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 20px;
+    height: 30px;
+}
+hr
+{
+    background-color: grey;
+    margin-top: 20px;
+}
+.h1
+{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+p
+{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    width: 1000px;
+    margin: auto;
+
+}
+.copyright
+{
+    padding-top: 45px;
+}
+span
+{
+    color: blanchedalmond;
+}
+
+footer
+{
+    height: 100px;
+    background-color: black;
+    color: white;
+}

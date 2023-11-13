@@ -1,0 +1,85 @@
+body
+{
+    background-color: rgb(22, 39, 66);
+    background-size: cover;
+    background-repeat: none;
+}
+li a
+{
+    
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.893);
+    font-size: 12px;
+}
+li
+{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+.buttons
+{
+    background-color: rgba(127, 255, 212, 0);
+    border: 3px rgba(177, 170, 170, 0) solid;
+    border-radius: 7px;
+    font-size: 10px ;
+    margin-left: 70px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 20px;
+    height: 30px;
+    margin-top: 20px;
+}
+header
+{
+    margin-left: -30px;
+}
+button:hover
+{
+    border-bottom: solid 2px rgb(255, 255, 255);
+    background-color: rgba(128, 128, 128, 0.621);
+}
+.buttons
+{
+    margin-left: 20px;
+}
+.home
+{
+    margin-left: 70px;
+}
+.au
+{
+    border: none;
+    border-bottom: solid 2px black;
+    background-color: rgba(127, 255, 212, 0);
+    border-radius: 7px;
+    font-size: 10px ;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 20px;
+    height: 30px;
+}
+hr
+{
+    background-color: grey;
+    margin-top: 20px;
+}
+h1
+{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+p
+{
+    text-align: center;
+    color: rgb(175, 76, 58);
+    font-size: 60px;
+    width: 800px;
+    margin: auto;
+
+}
+span
+{
+    color: rgb(166, 74, 53);
+}

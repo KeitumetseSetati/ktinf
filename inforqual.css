@@ -1,0 +1,85 @@
+.container
+{
+    background-image: url(/IMGs/qualinfo\ books.jpg);
+    background-size: cover;
+    background-repeat: none;
+    color: white;
+}
+.info
+{
+    background-color: rgba(0, 0, 0, 0.621);
+    height: 1950px;
+}
+p
+{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    width: 1000px;
+    margin: auto;
+}
+li a
+{
+    
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.893);
+    font-size: 12px;
+}
+li
+{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+.buttons
+{
+    background-color: rgba(127, 255, 212, 0);
+    border: 3px rgba(177, 170, 170, 0) solid;
+    border-radius: 7px;
+    font-size: 10px ;
+    margin-left: 70px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 20px;
+    height: 30px;
+    margin-top: 20px;
+}
+header
+{
+    margin-left: 20px;
+}
+button:hover
+{
+    border-bottom: solid 2px rgba(255, 255, 255, 0.637);
+    background-color: rgba(128, 128, 128, 0.621);
+}
+.buttons
+{
+    margin-left: 20px;
+}
+hr
+{
+    background-color: grey;
+    margin-top: 20px;
+}
+.IQ
+{
+    border: none;
+    border-bottom: solid 2px black;
+    background-color: rgba(127, 255, 212, 0);
+    border-radius: 7px;
+    font-size: 10px ;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 20px;
+    height: 30px;
+}
+span
+{
+    color: brown;
+}
+h1
+{
+    text-align: center;
+    font-size: 50px;
+}
